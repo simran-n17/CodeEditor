@@ -1,4 +1,5 @@
 # 🌌 Cosmic Code Editor
+[![Live Demo](https://simran-n17.github.io/CodeEditor/)
 
 ![Project Preview](preview.png) <!-- Add a screenshot or GIF if available -->
 
