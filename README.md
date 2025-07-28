@@ -1,6 +1,6 @@
 # 🌌 Cosmic Code Editor
-[![Live Demo](https://simran-n17.github.io/CodeEditor/)
-
+## 🔗 Live Demo
+➡️ [Try it live here!](https://simran-n17.github.io/CodeEditor/)
 ![Project Preview](preview.png) <!-- Add a screenshot or GIF if available -->
 
 A beautiful, interactive online code editor with cosmic-themed animations and real-time preview functionality. Perfect for web development prototyping and learning.
