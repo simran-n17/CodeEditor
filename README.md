@@ -1,6 +1,6 @@
 # 🌌 Cosmic Code Editor
 
-![Project Preview](preview.gif) <!-- Add a screenshot or GIF if available -->
+![Project Preview](preview.png) <!-- Add a screenshot or GIF if available -->
 
 A beautiful, interactive online code editor with cosmic-themed animations and real-time preview functionality. Perfect for web development prototyping and learning.
 
